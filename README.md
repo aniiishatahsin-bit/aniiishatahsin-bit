@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Anisha! 👋
 
-<!--
-**aniiishatahsin-bit/aniiishatahsin-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Python Developer** dedicated to building functional desktop applications and exploring the world of programming. Alongside my technical journey, I am pursuing my studies in **Development Studies**, blending social insights with logical problem-solving.
 
-Here are some ideas to get you started:
+### 🚀 Technical Projects & Work:
+- 🐍 **Python & GUI Development:** Currently building desktop tools, including my recent **Personal Notebook App** using Tkinter and file handling.
+- 🛠️ **Logic Building:** Developing scripts to automate tasks and manage data efficiently.
+- 💻 **Tools & Workflow:** Actively using **VS Code** and **Git/GitHub** to manage my code and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Knowledge:
+- **Programming:** Python (Tkinter, File Handling, Logic Building).
+- **Academic Foundation:** Socio-economic theories, Public Administration, and Macroeconomics.
+- **Tools:** VS Code, Git/GitHub.
+
+### 🌱 Current Goals:
+- Developing more functional Python applications.
+- Integrating developmental insights with programming logic.
+
+---
+*"Leveraging technology to drive social change and administrative efficiency."*
